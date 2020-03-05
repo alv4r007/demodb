@@ -1,0 +1,28 @@
+{
+  personas: [
+    {
+      'id': 1,
+      'nombre': 'AZ',
+      'titulo': 'gamer',
+      'descripcion': 'Profesional'
+    },
+    {
+      'id': 2,
+      'nombre': 'Javier',
+      'titulo': 'teacher',
+      'descripcion': 'Profesional Study'
+    },
+    {
+      'id': 3,
+      'nombre': 'Fred',
+      'titulo': 'youtuber',
+      'descripcion': 'Profesional world of inteernet'
+    },
+    {
+      'id': 4,
+      'nombre': 'Carly',
+      'titulo': 'youtuber',
+      'descripcion': 'Profesional world of internet'
+    }
+  ]
+}
