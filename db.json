@@ -1,5 +1,5 @@
 {
-  personas: [
+  'personas': [
     {
       'id': 1,
       'nombre': 'AZ',
